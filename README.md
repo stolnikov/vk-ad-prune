@@ -14,9 +14,7 @@ vk.com##.ads_ad_text_box
 ```
 Targeted ads in groups / news feed:
 ```
-vk.com##._ads_promoted_post_data_w
-vk.com##._ads_promoted_post
-vk.com##.own_ads_promoted_post
+vk.com##div[class*="ads_promoted_post"]
 ```
 Group posts tagged by group admins as `Advert`:
 ```
