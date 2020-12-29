@@ -12,6 +12,7 @@ vk.com##div[id="ads_left"]
 Targeted ads in groups / news feed:
 ```
 vk.com##div[class*="ads_promoted_post"]
+vk.com##div[class*="_ads_block_data_w"]
 ```
 Group posts tagged by group admins as `Advertisement`:
 ```
